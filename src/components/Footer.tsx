@@ -76,7 +76,7 @@ const Footer = () => {
             <ul className="space-y-2 text-gray-400">
               <li>Email: badalkrdev+fairchain@gmail.com</li>
               <li>Phone: 7004559534 </li>
-              <li>Address: Boring Road Patna</li>
+              <li>Address: Boring Road Patna , 800001</li>
             </ul>
           </div>
         </div>
