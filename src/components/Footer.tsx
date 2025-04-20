@@ -74,9 +74,9 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4">Contact Us</h3>
             <ul className="space-y-2 text-gray-400">
-              <li>Email: info@fairchain.org</li>
-              <li>Phone: +1 (555) 123-4567</li>
-              <li>Address: 123 Agricultural Way, Innovation District, Tech City</li>
+              <li>Email: badalkrdev+fairchain@gmail.com</li>
+              <li>Phone: 7004559534 </li>
+              <li>Address: Boring Road Patna</li>
             </ul>
           </div>
         </div>
