@@ -7,7 +7,7 @@ const ProblemSolution = () => {
     <section id="solution" className="section-padding bg-gray-50">
       <div className="container mx-auto">
         <div className="max-w-4xl mx-auto mb-16">
-          <h2 className="text-3xl md:text-4xl font-bold text-center mb-4">The Problem & Our Solution</h2>
+          <h2 className="text-3xl md:text-4xl font-bold text-center mb-4 text-green-700">The Problem & Our Solution</h2>
           <p className="text-gray-600 text-center">
             The agricultural supply chain faces significant challenges that impact farmers, intermediaries, and consumers alike.
           </p>

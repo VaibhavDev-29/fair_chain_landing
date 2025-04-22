@@ -36,7 +36,7 @@ const FeaturesSection = () => {
     },
     {
       icon: <Package className="w-6 h-6 text-white" />,
-      title: "Blockchain Traceability",
+      title: "Traceability",
       description: "Track produce journey from farm to consumer with our innovative digital passport system.",
       gradient: "bg-gradient-to-br from-amber/30 to-amber/10"
     },
